@@ -1,0 +1,14 @@
+.book{
+    padding: 15px;
+    border-radius: 3px;
+    background-color: #2898EC;
+    color: white;
+  }
+
+.book_link{
+   color: #faf3f3;
+  }
+
+.book_link :hover{
+    color: #fff;
+  }

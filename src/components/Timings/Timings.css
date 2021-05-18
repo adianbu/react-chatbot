@@ -1,0 +1,14 @@
+.timings{
+    padding: 15px;
+    border-radius: 3px;
+    background-color: #2898EC;
+    color: white;
+  }
+
+.timings_link{
+   color: #faf3f3;
+  }
+
+.timings_link :hover{
+    color: #fff;
+  }

@@ -8,9 +8,9 @@ import Book from "../components/Book/Book";
 import Timings from "../components/Timings/Timings";
 
 const config = {
-  botName: "HelpingBot",
+  botName: "ChatBot",
   initialMessages: [
-    createChatBotMessage(`Hello. What do you want to learn`, {
+    createChatBotMessage(`Hello. How can i help you?`, {
       widget: "options",
     }),
   ],

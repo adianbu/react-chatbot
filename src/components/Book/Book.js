@@ -5,7 +5,10 @@ function Book() {
     return (
         <div className="book">
         <p>
-         <a href="/" className="book_link" >Click here</a> to book tickets
+         <a href="https://www.easemytrip.com/railways/" 
+         target="_blank"
+         rel="noreferrer"
+         className="book_link" >Click here</a> to book tickets
         </p>
             
         </div>
